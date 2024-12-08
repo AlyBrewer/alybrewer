@@ -5,7 +5,10 @@
 
 ## About Me 🌟  
 - 🖥️ **Programming Skills:** C/C++, Python (Flask), HTML/CSS, JavaScript (React).  
-- 🚀 **Interests:** Through my co-op experience at NASA, I’ve deepened my passion for space and technology. I aim to use my skills to drive innovation and promote positive change in the world!
+- 🚀 **Interests:** As a student, I still have a lot to learn! Right now, I’ve been diving into:
+    - Software Engineering!
+    - Systems engineering and cool space tech
+    - Small scale projects with Raspberry Pi and Arduino
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alybrewer&show_icons=true&locale=en&layout=compact" alt="alybrewer" />
