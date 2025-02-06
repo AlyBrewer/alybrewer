@@ -7,9 +7,8 @@
 - 🖥️ **Programming Skills:** C/C++, Python (Flask), HTML/CSS, JavaScript (React).  
 - 🚀 **Interests:** As a student, I still have a lot to learn! Right now, I’ve been diving into:
     - Software Engineering!
-    - Systems engineering and cool space tech
-    - Small scale projects with Raspberry Pi and Arduino
-
+    - Embedded Software and Systems Engineering
+    - Human Computer Reaction and Product Design
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alybrewer&show_icons=true&locale=en&layout=compact" alt="alybrewer" />
 </p>
