@@ -9,6 +9,8 @@
     - Software Engineering!
     - Embedded Software and Systems Engineering
     - Human Computer Reaction and Product Design
+ 
+Be sure to check back to see what I'm up to :)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alybrewer&show_icons=true&locale=en&layout=compact" alt="alybrewer" />
 </p>
