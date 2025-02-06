@@ -8,7 +8,7 @@
 - 🚀 **Interests:** As a student, I still have a lot to learn! Right now, I’ve been diving into:
     - Software Engineering!
     - Embedded Software and Systems Engineering
-    - Human Computer Reaction and Product Design
+    - Human Computer/Machine Interaction and Product Design
     - Web Development
  
 Be sure to check back to see what I'm up to :)
